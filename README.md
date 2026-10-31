@@ -7,6 +7,8 @@ Class presentation: 2 November 2026
 
 A tabletop installation proposal in which one player tilts a radio-shaped handheld controller. The intended two-axis tray movement lets gravity roll a ball through a miniature old-home maze. Selected objects may respond with light, an opening route, or another interaction; these details remain subject to prototyping.
 
+**[Open the presentation](https://roumo1025.github.io/old-home-presentation/)**
+
 ## View and edit
 
 The presentation is a self-contained `index.html` with ten English slides, embedded assets, bilingual speaking notes and an illustrative tilt-and-ball demo. Open it in a modern browser, or use this repository's GitHub Pages site after deployment.
